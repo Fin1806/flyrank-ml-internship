@@ -34,3 +34,6 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# DuckDB disk spill from the Week 4-7 warehouse loader
+work/outputs/lane2_duckdb_spill/
