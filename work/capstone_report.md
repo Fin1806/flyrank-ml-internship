@@ -3,7 +3,7 @@
 ## A client-wide check for a page review queue
 
 - **Author:** Finley Septhian Darma
-- **Lane:** Search decline review and action playbook
+- **Lane:** Refresh / Content Opportunity Scoring, with a client-wide review check
 - **Date:** 19 October 2026
 - **Repository:** https://github.com/Fin1806/flyrank-ml-internship
 - **Notebook:** https://github.com/Fin1806/flyrank-ml-internship/blob/main/work/notebooks/capstone.ipynb
